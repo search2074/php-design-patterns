@@ -2,7 +2,8 @@
 <phpunit bootstrap="./vendor/autoload.php" colors="true">
     <testsuites>
         <testsuite name="Design Patterns">
-            <directory suffix="Test.php">patterns/creational/*/Tests</directory>
+            <directory suffix="Test.php">Patterns/Creational/*/Tests</directory>
+            <directory suffix="Test.php">Patterns/Structural/*/Tests</directory>
         </testsuite>
     </testsuites>
 </phpunit>
