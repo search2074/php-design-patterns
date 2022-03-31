@@ -1,12 +1,12 @@
 # PHP Design patterns
 
 ## Список паттернов
-### [Порождающие (creational)](Patterns/Creational/README.md)
+### [Порождающие (creational)](Patterns/Creational/)
 - Абстрактная фабрика (abstract factory)
 - Фабричный метод (factory method)
 - Прототип (prototype)
 - Строитель (builder)
-- [Одиночка (singleton)](Patterns/Creational/Singleton/README.md)
+- [Одиночка (singleton)](Patterns/Creational/Singleton/)
 ### [Структурные (structural)](Patterns/Structural/)
 - Адаптер (adapter)
 - Мост (bridge)
@@ -27,6 +27,12 @@
 - Стратегия (strategy)
 - Шаблонный метод (template method)
 - Посетитель (visitor)
+
+## ООП
+- [Класс (class)](./docs/class.md)
+- [Абстрактный класс (abstract class)](./docs/abstract_class.md)
+- [Интерфейс (interface)](./docs/interface.md)
+- [Трейт (trait)](./docs/trait.md)
 
 ### Build
 > docker-compose up -d --build
