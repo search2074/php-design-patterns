@@ -3,7 +3,7 @@
 ## Список паттернов
 ### [Порождающие (creational)](Patterns/Creational/)
 - Абстрактная фабрика (abstract factory)
-- Фабричный метод (factory method)
+- [Фабричный метод (factory method)](Patterns/Creational/FactoryMethod)
 - Прототип (prototype)
 - Строитель (builder)
 - [Одиночка (singleton)](Patterns/Creational/Singleton/)
