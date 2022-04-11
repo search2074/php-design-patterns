@@ -8,7 +8,7 @@
 - Строитель (builder)
 - [Одиночка (singleton)](Patterns/Creational/Singleton/)
 ### [Структурные (structural)](Patterns/Structural/)
-- Адаптер (adapter)
+- [Адаптер (adapter)](Patterns/Structural/Adapter)
 - Мост (bridge)
 - Компоновщик (composite)
 - [Декоратор (decorator)](Patterns/Structural/Decorator/)
