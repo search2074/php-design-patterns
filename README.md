@@ -2,7 +2,7 @@
 
 ## Список паттернов
 ### [Порождающие (creational)](Patterns/Creational/)
-- Абстрактная фабрика (abstract factory)
+- [Абстрактная фабрика (abstract factory)](Patterns/Creational/AbstractFactory)
 - [Фабричный метод (factory method)](Patterns/Creational/FactoryMethod)
 - Прототип (prototype)
 - Строитель (builder)
