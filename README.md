@@ -17,7 +17,7 @@
 - Прокси (proxy)
 ### [Поведенческие (behavioral)](Patterns/Behavioral/)
 - [Цепочка обязанностей (chain of responsibility)](Patterns/Behavioral/ChainOfResponsibility/)
-- Команда (command)
+- [Команда (command)](Patterns/Behavioral/Command)
 - Интерпретатор (interpreter)
 - Интерпретатор (interpreter)
 - Посредник (mediator)
