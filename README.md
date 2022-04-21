@@ -18,8 +18,7 @@
 ### [Поведенческие (behavioral)](Patterns/Behavioral/)
 - [Цепочка обязанностей (chain of responsibility)](Patterns/Behavioral/ChainOfResponsibility/)
 - [Команда (command)](Patterns/Behavioral/Command)
-- Интерпретатор (interpreter)
-- Интерпретатор (interpreter)
+- [Итератор (iterator)](Patterns/Behavioral/Iterator)
 - Посредник (mediator)
 - Хранитель (memento)
 - Наблюдатель (observer)
@@ -42,6 +41,9 @@
 
 ### Stop
 > docker-compose down
+ 
+### Composer install
+> docker-compose exec php-fpm composer i
 
 ### Run tests
 > docker-compose exec php-fpm ./vendor/bin/phpunit
